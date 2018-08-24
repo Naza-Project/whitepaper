@@ -1,0 +1,2 @@
+# whitepaper
+Whitepaper of naza.
